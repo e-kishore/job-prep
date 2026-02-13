@@ -1,0 +1,12 @@
+#addition
+print(1+1)
+#subtraction
+print(4-2)
+#multiplication
+print(2*1)
+#division
+print(4/2)
+#power
+print(2**2)
+#remainder
+print(4%2)
