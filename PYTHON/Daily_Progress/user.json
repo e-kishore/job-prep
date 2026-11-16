@@ -1,0 +1,9 @@
+{
+  "id": 101,
+  "name": "Asha",
+  "is_active": true,
+  "skills": [
+    "Python",
+    "SQL"
+  ]
+}
